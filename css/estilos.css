@@ -1,0 +1,6 @@
+.btn-nuevo{
+    box-shadow:0.1em 0.1em 0.2em rgba(0,0,0,0.5);
+    background: linear-gradient(gold, chocolate);
+    border: none;
+    color: #fff;
+}
